@@ -6,6 +6,7 @@ process log files and extract specific information based on user-provided option
 
 
 log_parser/
+
 ├── util.py
 ├── requirements.txt
 ├── README.md
